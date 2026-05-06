@@ -14,30 +14,63 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-name: Chinzorig Ochirbat
-role: Production Support & Cloud Engineer
-experience: 3+ years
-location: Mongolia (UTC+8)
-availability: Open to Global Remote
+<table>
+<tr><td>
 
-cloud:
-  - AWS (EC2, S3, RDS, CloudWatch, IAM, VPC, Lambda)
-  - Terraform Infrastructure as Code
-  - Docker Containerization
+🔥 **Production Support & Cloud Engineer** with 3+ years of hands-on experience maintaining mission-critical telecom and financial platforms in 24/7 SLA-driven environments.
 
-daily_work:
-  - P1/P2 Incident Management (15-25 daily incidents)
-  - AWS CloudWatch Monitoring & Troubleshooting
-  - Automated Operations with Python, Bash & AWS CLI
-  - 99%+ SLA Compliance across telecom & financial platforms
+</td></tr>
+</table>
 
-achievements:
-  - Reduced recurring incidents by 25%
-  - Outstanding Employee Award 2025
-  
+<details>
+<summary>☁️ <b>Cloud & Infrastructure</b></summary>
+<br>
+<blockquote>
+AWS (EC2, S3, RDS, CloudWatch, IAM, VPC, Lambda) • Terraform IaC • Docker • GitHub Actions CI/CD
+</blockquote>
+</details>
 
-```
+<details>
+<summary>⚡ <b>What I Do Daily</b></summary>
+<br>
+<blockquote>
+P1/P2 Incident Management (15-25 daily) • AWS CloudWatch Monitoring • Cloud Automation with Python, Bash & AWS CLI • 99%+ SLA Compliance
+</blockquote>
+</details>
+
+<details>
+<summary>🏆 <b>Key Achievements</b></summary>
+<br>
+<blockquote>
+📉 Reduced recurring incidents by 25% through improved RCA<br>
+⭐ Outstanding Employee Award — Unity Data Technology, 2025<br>
+🤖 Automated operational tasks, reducing manual work by 20%<br>
+🌍 Contributed to <a href="https://github.com/aws/serverless-application-model">aws/serverless-application-model</a>
+</blockquote>
+</details>
+
+<details>
+<summary>📚 <b>Currently Learning</b></summary>
+<br>
+<blockquote>
+🎯 AWS Cloud Practitioner Certification<br>
+🔧 Advanced Terraform Modules & Remote State<br>
+🐳 Kubernetes & Container Orchestration
+</blockquote>
+</details>
+
+---
+
+### 🏗️ Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-production-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-production-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-terraform-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-terraform-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=lambda-cloudwatch-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/lambda-cloudwatch-automation)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=docker-node-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/docker-node-app)
+
+</div>
 
 ---
 

@@ -27,9 +27,6 @@
 ---
 
 
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -58,8 +55,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinzorig11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&text_color=FFFFFF" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chinzorig11&theme=tokyonight&hide_border=true&background=0D1117&ring=3BACF7&fire=3BACF7&currStreakLabel=3BACF7" width="48%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chinzorig11&theme=tokyonight&hide_border=true&background=0D1117&ring=3BACF7&fire=3BACF7&currStreakLabel=3BACF7" width="60%" />
 </div>
 
 ---

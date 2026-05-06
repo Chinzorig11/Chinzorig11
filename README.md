@@ -1,40 +1,102 @@
-# Hi, I'm Chinzorig 👋
+<div align="center">
+  
+# ⚡ Chinzorig Ochirbat
 
-**Cloud Support & Production Engineer** with 3+ years of experience maintaining high-availability platforms in 24/7 SLA-driven environments.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BACF7&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+Production+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Python;Building+Reliable+Infrastructure" alt="Typing SVG" />
 
-## 🔧 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinzorig-o-53578021b)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinzorig11222@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chinzorig11)
 
-- 🔥 Handle P1/P2 incidents end-to-end across telecom & financial platforms
-- ☁️ Build and maintain AWS cloud infrastructure (EC2, RDS, S3, CloudWatch, IAM)
-- 🛠️ Automate operational tasks with Python, Bash, and Terraform
-- 📊 Monitor production systems using Splunk, CloudWatch, and custom dashboards
-
-## 🏗️ Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [aws-production-infra](https://github.com/Chinzorig11/aws-production-infra) | Production-grade AWS infrastructure with Terraform modules, CI/CD, multi-env | Terraform, AWS, GitHub Actions |
-| [aws-terraform-infra](https://github.com/Chinzorig11/aws-terraform-infra) | Complete AWS web app infrastructure as code | Terraform, AWS |
-| [lambda-cloudwatch-automation](https://github.com/Chinzorig11/lambda-cloudwatch-automation) | Serverless monitoring & auto-remediation toolkit | Python, AWS Lambda |
-
-
-## 💻 Tech Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinzorig-o-53578021b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chinzorig11222@gmail.com)
+</div>
 
 ---
-*Open to global remote opportunities in Cloud/DevOps Engineering*
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chinzorig11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7&text_color=FFFFFF" width="48%" />
+
+### 🧑‍💻 About Me
+
+- 🔥 **Production Support & Cloud Engineer** with 3+ years of experience
+- ☁️ AWS infrastructure monitoring & troubleshooting (EC2, S3, RDS, CloudWatch, IAM)
+- 🏆 **99%+ SLA compliance** across 24/7 telecom & financial platforms
+- 🛠️ Automated cloud operations with **Python, Bash & AWS CLI**
+- 📉 Reduced recurring incidents by **25%** through improved RCA
+- 🌏 Based in Mongolia, open to **global remote** roles
+
+<br clear="both" />
+
+---
+
+### 🏗️ Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-production-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-production-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-terraform-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-terraform-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=lambda-cloudwatch-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/lambda-cloudwatch-automation)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=docker-node-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/docker-node-app)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🗄️ Databases & Monitoring
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinzorig11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&text_color=FFFFFF" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chinzorig11&theme=tokyonight&hide_border=true&background=0D1117&ring=3BACF7&fire=3BACF7&currStreakLabel=3BACF7" width="48%" />
+</div>
+
+---
+
+### 🏆 Experience Highlights
+
+```text
+🔹 Production Support Engineer & Cloud Ops @ Unity Data    2024 - Present
+   ├── AWS CloudWatch, EC2, S3, RDS, IAM monitoring & troubleshooting
+   ├── 15-25 daily incidents across telecom, financial & cloud platforms
+   ├── 99%+ SLA compliance for enterprise systems
+   ├── Automated operations with Python, Bash & AWS CLI (20% faster)
+   └── Reduced recurring incidents by 25% through improved RCA
+
+🔹 Technical Support Engineer @ Oyu Tolgoi LLC           2022 - 2024
+   ├── Supported 500+ enterprise users in mining operations
+   ├── Cisco, IBM, Google Workspace administration
+   └── Improved knowledge base documentation
+```
+
+---
+
+<div align="center">
+  
+**💡 Open to Cloud Engineering, DevOps, and Production Support opportunities worldwide**
+
+<img src="https://komarev.com/ghpvc/?username=Chinzorig11&color=3BACF7&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>

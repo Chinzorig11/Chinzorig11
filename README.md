@@ -12,7 +12,6 @@
 
 ---
 
-
 ### 🧑‍💻 About Me
 
 ```yaml
@@ -23,30 +22,37 @@ location: Mongolia (UTC+8)
 availability: Open to Global Remote
 
 cloud:
-  - AWS (EC2, S3, RDS, CloudWatch, IAM)
+  - AWS (EC2, S3, RDS, CloudWatch, IAM, VPC, Lambda)
   - Terraform Infrastructure as Code
   - Docker Containerization
 
 daily_work:
-  - P1/P2 Incident Management
-  - 99%+ SLA Compliance
-  - Cloud Monitoring & Automation
+  - P1/P2 Incident Management (15-25 daily incidents)
+  - AWS CloudWatch Monitoring & Troubleshooting
+  - Automated Operations with Python, Bash & AWS CLI
+  - 99%+ SLA Compliance across telecom & financial platforms
+
+achievements:
+  - Reduced recurring incidents by 25%
+  - Outstanding Employee Award 2025
+  
+currently_learning: AWS Cloud Practitioner Certification
 ```
-```
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chinzorig11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7&text_color=FFFFFF&count_private=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinzorig11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&text_color=FFFFFF" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
+### 🏗️ Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-production-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-production-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-terraform-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-terraform-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=lambda-cloudwatch-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/lambda-cloudwatch-automation)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=docker-node-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/docker-node-app)
+
+</div>
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -74,29 +80,29 @@ daily_work:
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Experience
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chinzorig11&theme=tokyonight&hide_border=true&background=0D1117&ring=3BACF7&fire=3BACF7&currStreakLabel=3BACF7" width="60%" />
-</div>
-
----
-
-### 🏆 Experience Highlights
-
-```text
-🔹 Production Support Engineer & Cloud Ops @ Unity Data    2024 - Present
+```
+🔹 Production Support & Cloud Ops @ Unity Data Technology    2024 - Present
    ├── AWS CloudWatch, EC2, S3, RDS, IAM monitoring & troubleshooting
    ├── 15-25 daily incidents across telecom, financial & cloud platforms
    ├── 99%+ SLA compliance for enterprise systems
    ├── Automated operations with Python, Bash & AWS CLI (20% faster)
    └── Reduced recurring incidents by 25% through improved RCA
 
-🔹 Technical Support Engineer @ Oyu Tolgoi LLC           2022 - 2024
+🔹 Technical Support Engineer @ Oyu Tolgoi LLC               2022 - 2024
    ├── Supported 500+ enterprise users in mining operations
    ├── Cisco, IBM, Google Workspace administration
    └── Improved knowledge base documentation
 ```
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chinzorig11&theme=tokyonight&hide_border=true&background=0D1117&ring=3BACF7&fire=3BACF7&currStreakLabel=3BACF7" width="60%" />
+</div>
 
 ---
 

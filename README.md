@@ -15,14 +15,40 @@
 
 ### 🧑‍💻 About Me
 
-- 🔥 **Production Support & Cloud Engineer** with 3+ years of experience
-- ☁️ AWS infrastructure monitoring & troubleshooting (EC2, S3, RDS, CloudWatch, IAM)
-- 🏆 **99%+ SLA compliance** across 24/7 telecom & financial platforms
-- 🛠️ Automated cloud operations with **Python, Bash & AWS CLI**
-- 📉 Reduced recurring incidents by **25%** through improved RCA
-- 🌏 Based in Mongolia, open to **global remote** roles
+<table>
+<tr>
+<td width="50%">
 
-<br clear="both" />
+```yaml
+name: Chinzorig Ochirbat
+role: Production Support & Cloud Engineer
+experience: 3+ years
+location: Mongolia (UTC+8)
+availability: Open to Global Remote
+
+cloud:
+  - AWS (EC2, S3, RDS, CloudWatch, IAM)
+  - Terraform Infrastructure as Code
+  - Docker Containerization
+
+daily_work:
+  - P1/P2 Incident Management
+  - 99%+ SLA Compliance
+  - Cloud Monitoring & Automation
+  
+currently_learning: AWS Cloud Practitioner
+```
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chinzorig11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7&text_color=FFFFFF&count_private=true" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinzorig11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&text_color=FFFFFF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 

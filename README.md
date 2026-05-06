@@ -15,10 +15,6 @@
 
 ### 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
-
 ```yaml
 name: Chinzorig Ochirbat
 role: Production Support & Cloud Engineer
@@ -35,8 +31,7 @@ daily_work:
   - P1/P2 Incident Management
   - 99%+ SLA Compliance
   - Cloud Monitoring & Automation
-  
-currently_learning: AWS Cloud Practitioner
+```
 ```
 
 </td>

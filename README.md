@@ -53,7 +53,6 @@ P1/P2 Incident Management (15-25 daily) • AWS CloudWatch Monitoring • Cloud 
 <summary>📚 <b>Currently Learning</b></summary>
 <br>
 <blockquote>
-🎯 AWS Cloud Practitioner Certification<br>
 🔧 Advanced Terraform Modules & Remote State<br>
 🐳 Kubernetes & Container Orchestration
 </blockquote>

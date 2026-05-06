@@ -12,7 +12,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chinzorig11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7&text_color=FFFFFF" width="48%" />
 
 ### 🧑‍💻 About Me
 

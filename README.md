@@ -57,7 +57,6 @@ P1/P2 Incident Management (15-25 daily) • AWS CloudWatch Monitoring • Cloud 
 </blockquote>
 </details>
 
----
 
 ---
 

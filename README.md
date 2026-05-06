@@ -12,12 +12,12 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 <table>
 <tr><td>
 
-🔥 **Production Support & Cloud Engineer** with 3+ years of hands-on experience maintaining mission-critical telecom and financial platforms in 24/7 SLA-driven environments.
+**Production Support & Cloud Engineer** with 3+ years of hands-on experience maintaining mission-critical telecom and financial platforms in 24/7 SLA-driven environments.
 
 </td></tr>
 </table>
@@ -58,16 +58,6 @@ P1/P2 Incident Management (15-25 daily) • AWS CloudWatch Monitoring • Cloud 
 🐳 Kubernetes & Container Orchestration
 </blockquote>
 </details>
-
----
-
-### 🏗️ Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🏢 aws-production-infra](https://github.com/Chinzorig11/aws-production-infra) | Production-grade AWS infra with Terraform modules, CI/CD, multi-env | `Terraform` `AWS` `GitHub Actions` |
-| [☁️ aws-terraform-infra](https://github.com/Chinzorig11/aws-terraform-infra) | Complete AWS web app infrastructure as code (VPC, EC2, RDS, ALB) | `Terraform` `AWS` |
-| [⚡ lambda-cloudwatch-automation](https://github.com/Chinzorig11/lambda-cloudwatch-automation) | Serverless monitoring & auto-remediation toolkit | `Python` `AWS Lambda` |
 
 ---
 

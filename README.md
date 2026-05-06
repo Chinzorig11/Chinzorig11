@@ -12,12 +12,12 @@
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 
 <table>
 <tr><td>
 
-**Production Support & Cloud Engineer** with 3+ years of hands-on experience maintaining mission-critical telecom and financial platforms in 24/7 SLA-driven environments.
+🔥 **Production Support & Cloud Engineer** with 3+ years of hands-on experience maintaining mission-critical telecom and financial platforms in 24/7 SLA-driven environments.
 
 </td></tr>
 </table>
@@ -53,10 +53,24 @@ P1/P2 Incident Management (15-25 daily) • AWS CloudWatch Monitoring • Cloud 
 <summary>📚 <b>Currently Learning</b></summary>
 <br>
 <blockquote>
+🎯 AWS Cloud Practitioner Certification<br>
+🔧 Advanced Terraform Modules & Remote State<br>
 🐳 Kubernetes & Container Orchestration
 </blockquote>
 </details>
 
+---
+
+### 🏗️ Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-production-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-production-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=aws-terraform-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/aws-terraform-infra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=lambda-cloudwatch-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/lambda-cloudwatch-automation)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinzorig11&repo=docker-node-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BACF7&icon_color=3BACF7)](https://github.com/Chinzorig11/docker-node-app)
+
+</div>
 
 ---
 

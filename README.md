@@ -12,12 +12,12 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 <table>
 <tr><td>
 
-🔥 **Production Support & Cloud Engineer** with 3+ years of hands-on experience maintaining mission-critical telecom and financial platforms in 24/7 SLA-driven environments.
+**Production Support & Cloud Engineer** with 3+ years of hands-on experience maintaining mission-critical telecom and financial platforms in 24/7 SLA-driven environments.
 
 </td></tr>
 </table>

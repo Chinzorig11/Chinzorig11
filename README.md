@@ -45,7 +45,8 @@ P1/P2 Incident Management (15-25 daily) • AWS CloudWatch Monitoring • Cloud 
 📉 Reduced recurring incidents by 25% through improved RCA<br>
 ⭐ Outstanding Employee Award — Unity Data Technology, 2025<br>
 🤖 Automated operational tasks, reducing manual work by 20%<br>
-🌍 Contributed to <a href="https://github.com/aws/serverless-application-model">aws/serverless-application-model</a>
+🌍 Contributed to <a href="https://github.com/aws/serverless-application-model">aws/serverless-application-model</a>,
+  <a href="https://github.com/aws/aws-cdk">aws-cdk</a>
 </blockquote>
 </details>
 

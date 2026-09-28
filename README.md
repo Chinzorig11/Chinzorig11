@@ -1,12 +1,34 @@
+<div align="center">
+
 # Chinzorig Ochirbat
 
-### Production Support Engineer · Cloud & DevOps
+### Production Support Engineer · Cloud · DevOps · Automation
 
-Production-focused engineer with **4+ years of hands-on experience** supporting high-availability telecom, financial, cloud, and enterprise platforms in 24/7 SLA-driven environments.
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Keeping+production+stable+24%2F7;Building+reliable+AWS+infrastructure;Automating+operations+with+Python+%26+Bash;Terraform+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Detect+%E2%86%92+Investigate+%E2%86%92+Fix+%E2%86%92+Automate"
+    alt="Typing SVG"
+  />
+</a>
 
-I focus on **AWS operations, incident management, observability, automation, root cause analysis, and production reliability**. I enjoy turning recurring operational problems into stable, repeatable, and automated solutions.
+<br>
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [GitHub](https://github.com/Chinzorig11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-Chinzorig11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chinzorig11)
+
+</div>
+
+---
+
+## 👋 About Me
+
+Production Support & Cloud Engineer with **4+ years of hands-on experience** supporting mission-critical platforms across **telecom, financial, enterprise, and cloud environments**.
+
+I work at the intersection of:
+
+```text
+Production Support  →  Cloud Operations  →  Automation  →  Reliability
 
 ---
 

@@ -1,16 +1,42 @@
 <div align="center">
 
-# ⚡ Chinzorig Ochirbat
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A66C2,100:00C6FF&text=Chinzorig%20Ochirbat&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Production%20Support%20%E2%80%A2%20Cloud%20Engineering%20%E2%80%A2%20DevOps&descAlignY=56&descSize=18&animation=fadeIn" />
 
-### Production Support • Cloud Engineering • DevOps
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Production+Support+%26+Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Python;Keeping+Production+Stable+24%2F7;Automating+Everything+That+Shouldn't+Be+Manual;Building+Reliable+Cloud+Infrastructure)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Keeping+Production+Stable+24%2F7;%E2%98%81%EF%B8%8F+Building+Reliable+AWS+Infrastructure;%F0%9F%A4%96+Automating+Ops+with+Python+%26+Bash;%F0%9F%9A%80+Terraform+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;%F0%9F%94%8D+Monitor+%E2%86%92+Detect+%E2%86%92+Fix+%E2%86%92+Automate" alt="Typing SVG" />
+</a>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Chinzorig11-181717?style=for-the-badge&logo=github)](https://github.com/Chinzorig11)
+Production Reliability · AWS · Automation · Infrastructure as Code
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Chinzorig_Ochirbat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Chinzorig11">
+  <img src="https://img.shields.io/badge/GitHub-Chinzorig11-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Chinzorig11&label=PROFILE+VIEWS&style=flat-square&color=0A66C2" />
+<img src="https://img.shields.io/github/followers/Chinzorig11?label=FOLLOWERS&style=flat-square&logo=github&color=0A66C2" />
+
+<br><br>
+
+☁️ Cloud Infrastructure    ⚡ Production Support    🤖 Automation
+      AWS                       P1 / P2               Python · Bash
+   Terraform                  Monitoring                AWS CLI
+     Docker                       RCA                    CI/CD
+
+⚡ Keep production stable. Automate everything else.
 
 </div>
 
